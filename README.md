@@ -1,5 +1,5 @@
 # curso-git
-Primer repositorio
+Primer repositorio David
 
 ## descripcion 
 repo creado para el curso
